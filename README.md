@@ -1,6 +1,7 @@
 # system24-custom
 
-a modification of a tui-style discord theme that was inspired by the [spicetify text theme](https://github.com/spicetify/spicetify-themes/tree/master/text).
+a modification of a tui-style discord theme that was inspired by the [spicetify text theme](https://github.com/spicetify/spicetify-themes/tree/master/text)
+the updates to this are somewhat independent of the upstream parent repository, as it still grabs whatever css file they push
 
 ![modified screenshot](/7YVeICYGuY.png)
 
